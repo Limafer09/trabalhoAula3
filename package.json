@@ -1,0 +1,24 @@
+{
+  "name": "trabalhoaula3",
+  "version": "1.0.0",
+  "description": "trabalho3",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Limafer09/trabalhoAula3.git"
+  },
+  "author": "Luis Fernando de Oliveira Lima",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Limafer09/trabalhoAula3/issues"
+  },
+  "homepage": "https://github.com/Limafer09/trabalhoAula3#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
+}
